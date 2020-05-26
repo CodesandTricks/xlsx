@@ -1,0 +1,15 @@
+{
+    "name": "codesandtricks/xlsx",
+    "type": "library",
+    "description": "A simple example for the xlsx library",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://www.youtube.com/c/CodesandTricks",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cody Miller",
+            "email": "codychris.utube@gmail.com",
+            "role": "Developer"
+        }
+    ],
+}
